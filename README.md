@@ -1,2 +1,3 @@
 # ProyectoEjemplo
-ejemplo de nuevo repositorio
+Mi primer repositorio de GitHub
+
